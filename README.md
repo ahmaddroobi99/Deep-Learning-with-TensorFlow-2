@@ -1,19 +1,10 @@
-# Deep-Learning-with-TensorFlow-2
+# 365 Data Science — Deep Learning with TensorFlow 2
 
-365datascience
+Course notebooks from 365 Data Science’s TensorFlow 2 deep-learning course.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** Python, TensorFlow 2, Jupyter
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2021). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-Jupyter Notebook
-
-## Year
-
-2021
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
